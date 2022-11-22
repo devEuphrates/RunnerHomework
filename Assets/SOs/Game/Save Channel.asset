@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3f0392f4bc678d4c9d024179b3d2eae, type: 3}
+  m_Name: Save Channel
+  m_EditorClassIdentifier: 
+  _defaultValues:
+    Level: 1
+    Coins: 0
+  _level: {fileID: 11400000, guid: 44fe24522349bc044863d58e5902d002, type: 2}
+  _coin: {fileID: 11400000, guid: e1e8f2227a963da40868e8ea7de2dbd9, type: 2}
